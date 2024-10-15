@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenerateFile", "FileGenerator\GenerateFile.csproj", "{D07C2F2D-2E3A-47A3-8FB0-CD6D7515F98E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileImport", "FileImport\FileImport.csproj", "{C8462B62-C4CC-4DDB-97AB-6417C1B7629C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D07C2F2D-2E3A-47A3-8FB0-CD6D7515F98E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07C2F2D-2E3A-47A3-8FB0-CD6D7515F98E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07C2F2D-2E3A-47A3-8FB0-CD6D7515F98E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07C2F2D-2E3A-47A3-8FB0-CD6D7515F98E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8462B62-C4CC-4DDB-97AB-6417C1B7629C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8462B62-C4CC-4DDB-97AB-6417C1B7629C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8462B62-C4CC-4DDB-97AB-6417C1B7629C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8462B62-C4CC-4DDB-97AB-6417C1B7629C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D88E6B0-7415-42E1-A6A0-483E6CD97734}
+	EndGlobalSection
+EndGlobal
