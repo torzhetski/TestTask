@@ -1,6 +1,7 @@
 using Microsoft.AspNetCore.Http.Features;
 using Microsoft.EntityFrameworkCore;
 using Task2;
+using Task2.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,7 +14,7 @@ builder.Services.Configure<FormOptions>(options =>
 });
 
 string _connectionString = $"Server=localhost;Database=test2db;User Id=root;Password={Environment.GetEnvironmentVariable("SQLPassword")};";
-builder.Services.AddDbContext<ApplicationContext>(options => options.UseMySql(_connectionString, ServerVersion.AutoDetect(_connectionString)));
+builder.Services.AddDbContext<IApplicationContext, ApplicationContext>(options => options.UseMySql(_connectionString, ServerVersion.AutoDetect(_connectionString)));
 
 var app = builder.Build();
 

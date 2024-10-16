@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -67,25 +67,25 @@
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Upload.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Upload.cshtml.cs",
-              "RelativeDocumentMoniker": "Task2\\Pages\\Upload.cshtml.cs",
-              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Upload.cshtml.cs*",
-              "RelativeToolTip": "Task2\\Pages\\Upload.cshtml.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:52:58.122Z",
-              "EditorCaption": ""
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Upload.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Upload.cshtml.cs",
+              "RelativeDocumentMoniker": "Task2\\Pages\\Upload.cshtml.cs",
+              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Upload.cshtml.cs",
+              "RelativeToolTip": "Task2\\Pages\\Upload.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:52:58.122Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

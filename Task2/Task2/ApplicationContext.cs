@@ -1,15 +1,16 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using Task2.Entities;
+using Task2.Interfaces;
 
 namespace Task2
 {
-    public class ApplicationContext : DbContext
+    public class ApplicationContext : DbContext, IApplicationContext
     {
         public DbSet<ClassOfAccount> Classes { get; set; } = null;
         public DbSet<MainAccauntNubmer> AccauntNumbers { get; set; } = null;
         public DbSet<MainData> Data { get; set; } = null;
         public DbSet<UploadedFiles> Files { get; set; } = null;
-       
+
 
         public ApplicationContext(DbContextOptions<ApplicationContext> options)
        : base(options)
@@ -25,6 +26,6 @@ namespace Task2
 
             base.OnModelCreating(modelBuilder);
         }
-        
+
     }
 }

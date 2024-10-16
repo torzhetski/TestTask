@@ -3,14 +3,15 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using Task2.DTOs;
 using Task2.Entities;
+using Task2.Interfaces;
 
 namespace Task2.Pages
 {
     public class DataModel : PageModel
     {
-        private readonly ApplicationContext _context;
+        private readonly IApplicationContext _context;
 
-        public DataModel(ApplicationContext context)
+        public DataModel(IApplicationContext context)
         {
             _context = context;
         }

@@ -2,14 +2,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using OfficeOpenXml;
 using Task2.Entities;
+using Task2.Interfaces;
 
 namespace Task2.Pages
 {
     public class UploadModel : PageModel
     {
-        private readonly ApplicationContext _context;
+        private readonly IApplicationContext _context;
 
-        public UploadModel(ApplicationContext context)
+        public UploadModel(IApplicationContext context)
         {
             _context = context;
         }

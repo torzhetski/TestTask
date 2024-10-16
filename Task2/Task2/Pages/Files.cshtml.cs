@@ -2,14 +2,15 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using Task2.Entities;
+using Task2.Interfaces;
 
 namespace Task2.Pages
 {
     public class FilesModel : PageModel
     {
-        private readonly ApplicationContext _context;
+        private readonly IApplicationContext _context;
 
-        public FilesModel (ApplicationContext context)
+        public FilesModel (IApplicationContext context)
         {
             _context = context;
         }
