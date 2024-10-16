@@ -20,7 +20,10 @@
             Console.WriteLine($"File_{i+1} Создан");
         }
     }
-
+    /// <summary>
+    /// Генерирует линию по шаблону
+    /// </summary>
+    /// <returns></returns>
     private string GenerateRandomLine()
     {
         DateOnly randomDate = GenerateRandomDate(5);

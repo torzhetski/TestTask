@@ -49,6 +49,12 @@ namespace Task2.Pages
             
         }
 
+        /// <summary>
+        /// метод загружающий данные из файла формата .xlsx(не работает для старого формата .xls)
+        /// </summary>
+        /// <param name="stream"></param>
+        /// <param name="startRow"></param>
+        /// <returns></returns>
         private async Task UploadAsync(MemoryStream stream, int startRow)
         {
             stream.Position = 0;

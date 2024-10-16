@@ -18,34 +18,35 @@ namespace FileImport.ViewModels
         {
             _fileDialogService = fileDialogService;
         }
-
+        //отвечает за хранение пути к файлу выбранному к импорту
         private string _selectedFilePath;
         public string SelectedFilePath
         {
             get => _selectedFilePath;
             set => Set(ref _selectedFilePath, value);
         }
-
+        //отвечает за хранение состояния визульного элемента
         private bool _isVisible = false;
         public bool IsVisible
         {
             get => _isVisible;
             set => Set(ref _isVisible, value);
         }
-
+        //отвечает за хранение числа импортированных линий
         private int _importedCount;
         public int ImportedCount
         {
             get => _importedCount;
             set => Set(ref _importedCount, value);
         }
+        //отвечает за храение общего числа линий необходимых к импорту
         private int _totalLines;
         public int TotalLines
         {
             get => _totalLines;
             set => Set(ref _totalLines, value);
         }
-
+        
         public ICommand SelectFileCommand => new RelayCommand(o =>
         {
             SelectFile();
@@ -58,6 +59,7 @@ namespace FileImport.ViewModels
         {
             return !string.IsNullOrEmpty(SelectedFilePath);
         });
+
         public ICommand SumAndMedianCommand => new RelayCommand(async o => 
         {
             await GetSumAndMedianAsync();
@@ -75,7 +77,6 @@ namespace FileImport.ViewModels
 
         private async Task ImportFileAsync()
         {
-
             using (MySqlConnection connection = new MySqlConnection(_connectionString))
             {
                 connection.Open();
@@ -153,6 +154,10 @@ namespace FileImport.ViewModels
             }
         }
 
+        /// <summary>
+        /// метод вычисляющий сумму и медиану чисел путем обращения к хранимой процедуре CalculateSumAndMedian!!!
+        /// </summary>
+        /// <returns></returns>
         private async Task GetSumAndMedianAsync()
         {
             using (MySqlConnection connection = new MySqlConnection(_connectionString))

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileImport")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13cfa82ffb04ed26c33ec12c4389975ed3876aeb")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileImport")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileImport")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

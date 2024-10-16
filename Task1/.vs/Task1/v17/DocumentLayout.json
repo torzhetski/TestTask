@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D07C2F2D-2E3A-47A3-8FB0-CD6D7515F98E}|FileGenerator\\GenerateFile.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task1\\filegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D07C2F2D-2E3A-47A3-8FB0-CD6D7515F98E}|FileGenerator\\GenerateFile.csproj|solutionrelative:filegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8462B62-C4CC-4DDB-97AB-6417C1B7629C}|FileImport\\FileImport.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task1\\fileimport\\services\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8462B62-C4CC-4DDB-97AB-6417C1B7629C}|FileImport\\FileImport.csproj|solutionrelative:fileimport\\services\\importservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C8462B62-C4CC-4DDB-97AB-6417C1B7629C}|FileImport\\FileImport.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task1\\fileimport\\viewmodels\\filedatavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8462B62-C4CC-4DDB-97AB-6417C1B7629C}|FileImport\\FileImport.csproj|solutionrelative:fileimport\\viewmodels\\filedatavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D07C2F2D-2E3A-47A3-8FB0-CD6D7515F98E}|FileGenerator\\GenerateFile.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task1\\filegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07C2F2D-2E3A-47A3-8FB0-CD6D7515F98E}|FileGenerator\\GenerateFile.csproj|solutionrelative:filegenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,12 +35,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ImportService.cs",
+              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task1\\FileImport\\Services\\ImportService.cs",
+              "RelativeDocumentMoniker": "FileImport\\Services\\ImportService.cs",
+              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task1\\FileImport\\Services\\ImportService.cs",
+              "RelativeToolTip": "FileImport\\Services\\ImportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:15:03.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task1\\FileGenerator\\Program.cs",
               "RelativeDocumentMoniker": "FileGenerator\\Program.cs",
               "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task1\\FileGenerator\\Program.cs",
               "RelativeToolTip": "FileGenerator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T12:57:19.703Z",
               "EditorCaption": ""
@@ -49,7 +66,7 @@
               "RelativeDocumentMoniker": "FileImport\\ViewModels\\FileDataVM.cs",
               "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task1\\FileImport\\ViewModels\\FileDataVM.cs",
               "RelativeToolTip": "FileImport\\ViewModels\\FileDataVM.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAEsAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAJsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T11:17:35.25Z",
               "EditorCaption": ""

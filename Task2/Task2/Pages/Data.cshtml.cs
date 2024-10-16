@@ -31,6 +31,11 @@ namespace Task2.Pages
             Classes = await _context.Classes.ToListAsync();
         }
 
+        /// <summary>
+        /// метод вычисл€ющий сумму всех полей по номеру главного счета
+        /// </summary>
+        /// <param name="mainNumb"></param>
+        /// <returns></returns>
         public async Task<MainDataDTO> MainNumberSummary(int mainNumb)
         {
             var summary = new MainDataDTO();
@@ -62,6 +67,11 @@ namespace Task2.Pages
             return summary;
         }
 
+        /// <summary>
+        /// метод вычисл€ющий сумму всех полей по классу счетов
+        /// </summary>
+        /// <param name="accauntClassId"></param>
+        /// <returns></returns>
         public async Task<MainDataDTO> ClassSummary(int accauntClassId)
         {
             var summary = new MainDataDTO();

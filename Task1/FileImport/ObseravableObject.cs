@@ -3,6 +3,10 @@ using System.Runtime.CompilerServices;
 
 namespace FileImport
 {
+    /// <summary>
+    /// Класс реаилзующий интерфейс INotifyPropertyChanged необходимый для отслеживания изменения 
+    /// в полях класса с последующим оповещением об этом отображения
+    /// </summary>
     public class ObservableObject : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler? PropertyChanged;

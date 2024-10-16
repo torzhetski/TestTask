@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\pages\\data.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\pages\\data.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\entities\\maindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\entities\\maindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\pages\\files.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\pages\\files.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\entities\\classofaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\entities\\classofaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\pages\\files.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\pages\\files.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\pages\\upload.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\pages\\upload.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\pages\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\pages\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\entities\\maindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\entities\\maindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,19 +25,6 @@
           "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Data.cshtml",
-              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Data.cshtml",
-              "RelativeDocumentMoniker": "Task2\\Pages\\Data.cshtml",
-              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Data.cshtml",
-              "RelativeToolTip": "Task2\\Pages\\Data.cshtml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCcAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-15T11:31:12.463Z",
-              "IsPinned": true
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
@@ -59,33 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Upload.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Upload.cshtml.cs",
-              "RelativeDocumentMoniker": "Task2\\Pages\\Upload.cshtml.cs",
-              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Upload.cshtml.cs",
-              "RelativeToolTip": "Task2\\Pages\\Upload.cshtml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:52:58.122Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Data.cshtml.cs",
-              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Data.cshtml.cs",
-              "RelativeDocumentMoniker": "Task2\\Pages\\Data.cshtml.cs",
-              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Data.cshtml.cs",
-              "RelativeToolTip": "Task2\\Pages\\Data.cshtml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T12:07:26.673Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "MainData.cs",
               "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Entities\\MainData.cs",
               "RelativeDocumentMoniker": "Task2\\Entities\\MainData.cs",
@@ -98,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ClassOfAccount.cs",
               "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Entities\\ClassOfAccount.cs",
               "RelativeDocumentMoniker": "Task2\\Entities\\ClassOfAccount.cs",
@@ -111,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Files.cshtml.cs",
               "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Files.cshtml.cs",
               "RelativeDocumentMoniker": "Task2\\Pages\\Files.cshtml.cs",

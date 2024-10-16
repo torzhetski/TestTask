@@ -2,6 +2,9 @@
 
 namespace FileImport
 {
+    /// <summary>
+    /// Класс реализующий интерфейс ICommand необходимый для создания комманд
+    /// </summary>
     public class RelayCommand : ICommand
     {
         private Action<object> _execute;
