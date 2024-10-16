@@ -1,0 +1,25 @@
+﻿@page
+@model Task2.Pages.FilesModel
+@{
+    <h2>Uploaded Files</h2>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>File Name</th>
+                <th>Date of uploading</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var file in Model.UploadedFilesList)
+            {
+                <tr>
+                    <td>@file.Id</td>
+                    <td>@file.Name</td>
+                    <td>@file.CreateDate</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}

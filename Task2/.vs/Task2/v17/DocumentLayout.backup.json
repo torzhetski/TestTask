@@ -1,0 +1,199 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\pages\\upload.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\pages\\upload.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\pages\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\pages\\data.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\pages\\data.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\pages\\data.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\entities\\classofaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\entities\\classofaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\entities\\maindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\entities\\maindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\pages\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\pages\\upload.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\pages\\files.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\pages\\files.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|c:\\users\\torzh\\source\\repos\\testforb1\\task2\\task2\\pages\\files.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831D8B63-42AA-4844-929B-131E9F408F0F}|Task2\\Task2.csproj|solutionrelative:task2\\pages\\files.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data.cshtml",
+              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Data.cshtml",
+              "RelativeDocumentMoniker": "Task2\\Pages\\Data.cshtml",
+              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Data.cshtml",
+              "RelativeToolTip": "Task2\\Pages\\Data.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T11:31:12.463Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Upload.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Upload.cshtml.cs",
+              "RelativeDocumentMoniker": "Task2\\Pages\\Upload.cshtml.cs",
+              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Upload.cshtml.cs",
+              "RelativeToolTip": "Task2\\Pages\\Upload.cshtml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:52:58.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Data.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Data.cshtml.cs",
+              "RelativeDocumentMoniker": "Task2\\Pages\\Data.cshtml.cs",
+              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Data.cshtml.cs",
+              "RelativeToolTip": "Task2\\Pages\\Data.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvz8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T12:07:26.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Task2\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Task2\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T12:02:22.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainData.cs",
+              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Entities\\MainData.cs",
+              "RelativeDocumentMoniker": "Task2\\Entities\\MainData.cs",
+              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Entities\\MainData.cs",
+              "RelativeToolTip": "Task2\\Entities\\MainData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:47:44.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClassOfAccount.cs",
+              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Entities\\ClassOfAccount.cs",
+              "RelativeDocumentMoniker": "Task2\\Entities\\ClassOfAccount.cs",
+              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Entities\\ClassOfAccount.cs",
+              "RelativeToolTip": "Task2\\Entities\\ClassOfAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:44:55.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Files.cshtml",
+              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Files.cshtml",
+              "RelativeDocumentMoniker": "Task2\\Pages\\Files.cshtml",
+              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Files.cshtml",
+              "RelativeToolTip": "Task2\\Pages\\Files.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-15T11:38:21.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "Task2\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\ApplicationContext.cs",
+              "RelativeToolTip": "Task2\\ApplicationContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:37:49.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Files.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Files.cshtml.cs",
+              "RelativeDocumentMoniker": "Task2\\Pages\\Files.cshtml.cs",
+              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Files.cshtml.cs",
+              "RelativeToolTip": "Task2\\Pages\\Files.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:35:28.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Upload.cshtml",
+              "DocumentMoniker": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Upload.cshtml",
+              "RelativeDocumentMoniker": "Task2\\Pages\\Upload.cshtml",
+              "ToolTip": "C:\\Users\\torzh\\source\\repos\\TestForB1\\Task2\\Task2\\Pages\\Upload.cshtml",
+              "RelativeToolTip": "Task2\\Pages\\Upload.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-14T09:14:31.952Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

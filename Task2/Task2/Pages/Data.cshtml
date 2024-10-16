@@ -1,0 +1,72 @@
+﻿@page
+@model Task2.Pages.DataModel
+@{
+    <h2>File</h2>
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th rowspan="2">Б/сч</th>
+                <th colspan="2">ВХОДЯЩЕЕ САЛЬДО</th>
+                <th colspan="2">ОБОРоты</th>
+                <th colspan="2">ИСХОДЯЩЕЕ САЛЬДО</th>
+            </tr>
+            <tr>
+                <th>Актив</th>
+                <th>Пассив</th>
+                <th>Дебет</th>
+                <th>Кредит</th>
+                <th>Актив</th>
+                <th>Пассив</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var row in Model.Data)
+            {
+                @if(Model.CurrentClass != row.ClassOfAccount)
+                {
+                    Model.CurrentClass = row.ClassOfAccount;
+                    <tr>
+                        <td colspan="7" align="center">@Model.CurrentClass.Name</td>
+                    </tr>
+                    var classSummary = await Model.ClassSummary(Model.CurrentClass.Id);
+                    <tr style="font-weight: bold">
+                        <td>По Классу</td>
+                        <td>@classSummary.InSaldoActive</td>
+                        <td>@classSummary.InSaldoPassive</td>
+                        <td>@classSummary.TurnoverDebit</td>
+                        <td>@classSummary.TurnoverCredit</td>
+                        <td>@classSummary.OutSaldoActive</td>
+                        <td>@classSummary.OutSaldoPassive</td>
+                    </tr>
+                }
+                @if (Model.CurrentMainNumber != row.MainAccauntNuberId)
+                {
+                    Model.CurrentMainNumber = row.MainAccauntNuberId;
+                    var mainNumbSummary = await Model.MainNumberSummary(Model.CurrentMainNumber);
+                    <tr style="font-weight: bold">
+                        <td>@Model.CurrentMainNumber</td>
+                        <td>@mainNumbSummary.InSaldoActive</td>
+                        <td>@mainNumbSummary.InSaldoPassive</td>
+                        <td>@mainNumbSummary.TurnoverDebit</td>
+                        <td>@mainNumbSummary.TurnoverCredit</td>
+                        <td>@mainNumbSummary.OutSaldoActive</td>
+                        <td>@mainNumbSummary.OutSaldoPassive</td>
+                    </tr>
+                }
+                    <tr>
+                        <td>@row.SubAccountNumber</td>
+                        <td>@row.InSaldoActive</td>
+                        <td>@row.InSaldoPassive</td>
+                        <td>@row.TurnoverDebit</td>
+                        <td>@row.TurnoverCredit</td>
+                        <td>@row.OutSaldoActive</td>
+                        <td>@row.OutSaldoPassive</td>
+                    </tr>
+                
+                
+                
+            }
+        </tbody>
+    </table>
+}
